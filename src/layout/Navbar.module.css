@@ -1,0 +1,21 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 1em;
+    background-color: #222;
+    
+    color: white;
+}
+
+.nav_list{
+    display: flex;
+    list-style: none;
+}
+
+
+.item_list {
+    color: white;
+    margin-right: 1rem;
+    text-decoration: none;
+
+}
