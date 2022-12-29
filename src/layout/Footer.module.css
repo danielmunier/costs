@@ -17,11 +17,18 @@
 
 .social_list svg {
     font-size: 1.5em;
+    cursor: pointer;
 }
 
-.social_list li:hover {
-    color: rgb(199, 199, 74);
-    cursor: pointer;
-    transition: 1s color;
+
+
+.social_list .facebook{
+    color: #3b5998;
+}
+.social_list .instagram{
+    color: #3f729b;
+}
+.social_list .linkedin{
+    color: #3f729b;
 }
 

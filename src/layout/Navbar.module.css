@@ -3,7 +3,6 @@
     justify-content: space-between;
     padding: 1em;
     background-color: #222;
-    
     color: white;
 }
 
@@ -18,4 +17,10 @@
     margin-right: 1rem;
     text-decoration: none;
 
+}
+
+
+li{
+    display: flex;
+    align-items: center;
 }

@@ -22,7 +22,10 @@
 .home_container p{
     color: #808080;
 }
-.home_container img{
+.home_container .img{
+    background-color: #808080;
+    width: 400px;
+    height: 400px;
     border-radius: 2%;
     margin-top: 2vh;
     width: 21em;
