@@ -1,0 +1,29 @@
+form {
+  width: 100%;
+  margin: 2em 0;
+
+}
+
+/* form button {
+    width: 70%;
+    height: 2em;
+    border-radius: 0.5em;
+    border: none;
+    background-color: #FFBB33;
+    color: #222;
+    font-weight: bold;
+    font-size: 1.2em;
+    cursor: pointer;
+}
+
+form button:hover {
+    background-color: #222;
+    color: #FFBB33;
+}
+form select {
+    height: 2em;
+    padding: 1.5em;
+    border-radius: 0.5em;
+    color: #222;
+    cursor: pointer;
+} */

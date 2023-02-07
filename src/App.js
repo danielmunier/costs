@@ -8,7 +8,6 @@ import Navbar from './layout/Navbar';
 import Footer from './layout/Footer';
 import Container from './layout/Container';
 import Home from './pages/Home';
-import Cep from './pages/Cep';
 import NewProject from './pages/NewProject';
 
 function App() {
@@ -22,7 +21,6 @@ function App() {
           <Route exact path="/projects" element={<Projects/>}></Route>
           <Route exact path="/company" element={<Company/>}></Route>
           <Route exact path="/contact" element={<Contact/>}></Route>
-          <Route exact path="/cep" element={<Cep/>}></Route>
           <Route exact path="/newproject" element={<NewProject/>}></Route>
 
       </Routes>

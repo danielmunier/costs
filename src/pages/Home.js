@@ -1,4 +1,3 @@
-import Cep from '../layout/ConsultaCEP'
 import LinkButton from '../layout/LinkButton'
 import styles from './Home.module.css'
 

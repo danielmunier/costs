@@ -12,7 +12,6 @@ function Navbar() {
                         <li><Link  className={styles.item_list}  to="/">Home</Link></li>
                         <li><Link  className={styles.item_list} to="/contact">Contato</Link></li>
                         <li><Link  className={styles.item_list} to="/company">Compania</Link></li>
-                        <li><Link className={styles.item_list} to="/Cep">Consultar CEP</Link></li>
                     </ul>
 
                 </Container>
